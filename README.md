@@ -1,4 +1,4 @@
 # stu-demo
 My first Git  Repository
 <hr>
-Author - Rishabh
+Author - Rishabh kumar
